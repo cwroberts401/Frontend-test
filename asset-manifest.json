@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Frontend-test/static/css/main.fabdd376.css",
-    "main.js": "/Frontend-test/static/js/main.5524ff43.js",
-    "static/media/DeleteIcon.svg": "/Frontend-test/static/media/DeleteIcon.5f3a71896316dc80926f1d0282c06871.svg",
-    "static/media/CreateIcon.svg": "/Frontend-test/static/media/CreateIcon.e8e93b1e8804066888438ac3b3710cf5.svg",
-    "static/media/EditIcon.svg": "/Frontend-test/static/media/EditIcon.fa3b6efcbfc406dbff7fbca690a00d69.svg",
-    "index.html": "/Frontend-test/index.html",
-    "static/media/MenuIcon.svg": "/Frontend-test/static/media/MenuIcon.36545d3fd54c5f4726a2576bf5abd47c.svg",
-    "static/media/AddIcon.svg": "/Frontend-test/static/media/AddIcon.604d5a67158b77d04fb57f4abead43a3.svg",
-    "static/media/BackArrow.svg": "/Frontend-test/static/media/BackArrow.468318ead49d0b6ccb085da499a00a89.svg",
-    "main.fabdd376.css.map": "/Frontend-test/static/css/main.fabdd376.css.map",
-    "main.5524ff43.js.map": "/Frontend-test/static/js/main.5524ff43.js.map"
+    "main.css": "./static/css/main.fabdd376.css",
+    "main.js": "./static/js/main.da064a90.js",
+    "static/media/DeleteIcon.svg": "./static/media/DeleteIcon.5f3a71896316dc80926f1d0282c06871.svg",
+    "static/media/CreateIcon.svg": "./static/media/CreateIcon.e8e93b1e8804066888438ac3b3710cf5.svg",
+    "static/media/EditIcon.svg": "./static/media/EditIcon.fa3b6efcbfc406dbff7fbca690a00d69.svg",
+    "index.html": "./index.html",
+    "static/media/MenuIcon.svg": "./static/media/MenuIcon.36545d3fd54c5f4726a2576bf5abd47c.svg",
+    "static/media/AddIcon.svg": "./static/media/AddIcon.604d5a67158b77d04fb57f4abead43a3.svg",
+    "static/media/BackArrow.svg": "./static/media/BackArrow.468318ead49d0b6ccb085da499a00a89.svg",
+    "main.fabdd376.css.map": "./static/css/main.fabdd376.css.map",
+    "main.da064a90.js.map": "./static/js/main.da064a90.js.map"
   },
   "entrypoints": [
     "static/css/main.fabdd376.css",
-    "static/js/main.5524ff43.js"
+    "static/js/main.da064a90.js"
   ]
 }
