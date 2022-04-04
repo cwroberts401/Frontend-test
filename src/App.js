@@ -10,13 +10,11 @@ function App() {
 
   return (
     <div className="App">
-      <Router>
         <Routes>
           <Route path="/" element={<><Header/><List lists={lists} setLists={setLists}/></>}/>
           <Route path="/new" element={<><Header/><Title lists={lists} setLists={setLists}/></>}/>
           <Route path="/edit/:list_id" element={<><Header/><Title lists={lists} setLists={setLists}/></>}/>
         </Routes>
-      </Router>
     </div>
   );
 }
